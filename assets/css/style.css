@@ -1,0 +1,28 @@
+#imagen-footer {
+    width: 82px;
+    height: 24px;
+}
+
+#imagen-nav {
+    width: 86px;
+    height: 25px;
+}
+
+#texto-navbar {
+    font-family: 'Raleway', sans-serif;
+}
+
+h5 {
+    font-family: 'Raleway', sans-serif;
+    color: #707070;
+}
+
+#articulo p{
+    font-family: 'Raleway', sans-serif;
+    color: #707070;
+}
+
+footer p{
+    font-family: 'Raleway', sans-serif;
+    color: #707070;
+}
